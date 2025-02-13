@@ -1,0 +1,57 @@
+16:46:27.738 [main] 112  evel org.testng.internal.Utils- [TestNG] Running:
+  /Users/eram/Downloads/SeleniumWebdriver/opencartV121/grouping.xml
+
+16:46:30.842 [main] 15   evel testCases.TC002_LoginTest- *******Starting of TC002_LoginTest ********
+16:46:32.286 [main] 38   evel testCases.TC002_LoginTest- ******Fininshed TC002_LoginTest******
+21:27:22.921 [main] 82   evel org.testng.TestNG- suiteXmlPath: "/Users/eram/Downloads/SeleniumWebdriver/opencartV121/grouping.xml"
+21:27:23.025 [main] 112  evel org.testng.internal.Utils- [TestNG] Running:
+  /Users/eram/Downloads/SeleniumWebdriver/opencartV121/grouping.xml
+
+21:27:27.216 [main] 16   evel testCases.TC001_AccountRegistrationTest- ***** Starting TC001_AccountRegistrationTest *****
+21:27:27.260 [main] 20   evel testCases.TC001_AccountRegistrationTest- Clicked on My Account Link
+21:27:27.929 [main] 23   evel testCases.TC001_AccountRegistrationTest- Clicked on Register Link
+21:27:27.931 [main] 26   evel testCases.TC001_AccountRegistrationTest- Providing Customer Details
+21:27:29.132 [main] 41   evel testCases.TC001_AccountRegistrationTest- Validating the expected message
+21:27:29.156 [main] 56   evel testCases.TC001_AccountRegistrationTest- ***** Finished TC001_AccountRegistrationTest *****
+21:27:32.434 [main] 15   evel testCases.TC002_LoginTest- *******Starting of TC002_LoginTest ********
+21:31:56.171 [main] 82   evel org.testng.TestNG- suiteXmlPath: "/Users/eram/Downloads/SeleniumWebdriver/opencartV121/grouping.xml"
+21:31:56.274 [main] 112  evel org.testng.internal.Utils- [TestNG] Running:
+  /Users/eram/Downloads/SeleniumWebdriver/opencartV121/grouping.xml
+
+21:31:59.974 [main] 16   evel testCases.TC001_AccountRegistrationTest- ***** Starting TC001_AccountRegistrationTest *****
+21:32:00.015 [main] 20   evel testCases.TC001_AccountRegistrationTest- Clicked on My Account Link
+21:32:00.584 [main] 23   evel testCases.TC001_AccountRegistrationTest- Clicked on Register Link
+21:32:00.586 [main] 26   evel testCases.TC001_AccountRegistrationTest- Providing Customer Details
+21:32:01.750 [main] 41   evel testCases.TC001_AccountRegistrationTest- Validating the expected message
+21:32:01.778 [main] 56   evel testCases.TC001_AccountRegistrationTest- ***** Finished TC001_AccountRegistrationTest *****
+21:32:04.755 [main] 15   evel testCases.TC002_LoginTest- *******Starting of TC002_LoginTest ********
+21:37:10.960 [main] 82   evel org.testng.TestNG- suiteXmlPath: "/Users/eram/Downloads/SeleniumWebdriver/opencartV121/grouping.xml"
+21:37:11.064 [main] 112  evel org.testng.internal.Utils- [TestNG] Running:
+  /Users/eram/Downloads/SeleniumWebdriver/opencartV121/grouping.xml
+
+21:37:14.916 [main] 16   evel testCases.TC001_AccountRegistrationTest- ***** Starting TC001_AccountRegistrationTest *****
+21:37:14.969 [main] 20   evel testCases.TC001_AccountRegistrationTest- Clicked on My Account Link
+21:37:15.540 [main] 23   evel testCases.TC001_AccountRegistrationTest- Clicked on Register Link
+21:37:15.542 [main] 26   evel testCases.TC001_AccountRegistrationTest- Providing Customer Details
+21:37:16.787 [main] 41   evel testCases.TC001_AccountRegistrationTest- Validating the expected message
+21:37:16.812 [main] 56   evel testCases.TC001_AccountRegistrationTest- ***** Finished TC001_AccountRegistrationTest *****
+21:37:20.939 [main] 15   evel testCases.TC002_LoginTest- *******Starting of TC002_LoginTest ********
+21:38:26.401 [main] 82   evel org.testng.TestNG- suiteXmlPath: "/Users/eram/Downloads/SeleniumWebdriver/opencartV121/grouping.xml"
+21:38:26.499 [main] 112  evel org.testng.internal.Utils- [TestNG] Running:
+  /Users/eram/Downloads/SeleniumWebdriver/opencartV121/grouping.xml
+
+21:38:30.423 [main] 16   evel testCases.TC001_AccountRegistrationTest- ***** Starting TC001_AccountRegistrationTest *****
+21:38:30.465 [main] 20   evel testCases.TC001_AccountRegistrationTest- Clicked on My Account Link
+21:38:31.062 [main] 23   evel testCases.TC001_AccountRegistrationTest- Clicked on Register Link
+21:38:31.064 [main] 26   evel testCases.TC001_AccountRegistrationTest- Providing Customer Details
+21:38:32.323 [main] 41   evel testCases.TC001_AccountRegistrationTest- Validating the expected message
+21:38:32.350 [main] 56   evel testCases.TC001_AccountRegistrationTest- ***** Finished TC001_AccountRegistrationTest *****
+21:38:36.546 [main] 15   evel testCases.TC002_LoginTest- *******Starting of TC002_LoginTest ********
+21:40:55.680 [main] 82   evel org.testng.TestNG- suiteXmlPath: "/Users/eram/Downloads/SeleniumWebdriver/opencartV121/grouping.xml"
+21:40:55.784 [main] 112  evel org.testng.internal.Utils- [TestNG] Running:
+  /Users/eram/Downloads/SeleniumWebdriver/opencartV121/grouping.xml
+
+21:41:00.986 [main] 16   evel testCases.TC001_AccountRegistrationTest- ***** Starting TC001_AccountRegistrationTest *****
+21:41:01.028 [main] 20   evel testCases.TC001_AccountRegistrationTest- Clicked on My Account Link
+21:41:01.650 [main] 23   evel testCases.TC001_AccountRegistrationTest- Clicked on Register Link
+21:41:01.652 [main] 26   evel testCases.TC001_AccountRegistrationTest- Providing Customer Details

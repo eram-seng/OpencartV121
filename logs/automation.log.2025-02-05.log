@@ -1,0 +1,61 @@
+09:58:56.318 [main] 82   evel org.testng.TestNG- suiteXmlPath: "/Users/eram/Downloads/SeleniumWebdriver/opencartV121/master.xml"
+09:58:56.437 [main] 112  evel org.testng.internal.Utils- [TestNG] Running:
+  /Users/eram/Downloads/SeleniumWebdriver/opencartV121/master.xml
+
+09:58:56.533 [main] 16   evel testCases.TC001_AccountRegistrationTest- ***** Starting TC001_AccountRegistrationTest *****
+10:00:01.583 [main] 82   evel org.testng.TestNG- suiteXmlPath: "/Users/eram/Downloads/SeleniumWebdriver/opencartV121/master.xml"
+10:00:01.686 [main] 112  evel org.testng.internal.Utils- [TestNG] Running:
+  /Users/eram/Downloads/SeleniumWebdriver/opencartV121/master.xml
+
+10:00:01.783 [main] 16   evel testCases.TC001_AccountRegistrationTest- ***** Starting TC001_AccountRegistrationTest *****
+15:29:34.578 [main] 82   evel org.testng.TestNG- suiteXmlPath: "/Users/eram/Downloads/SeleniumWebdriver/opencartV121/master.xml"
+15:29:34.677 [main] 112  evel org.testng.internal.Utils- [TestNG] Running:
+  /Users/eram/Downloads/SeleniumWebdriver/opencartV121/master.xml
+
+15:29:34.777 [main] 16   evel testCases.TC001_AccountRegistrationTest- ***** Starting TC001_AccountRegistrationTest *****
+15:37:12.089 [main] 82   evel org.testng.TestNG- suiteXmlPath: "/Users/eram/Downloads/SeleniumWebdriver/opencartV121/master.xml"
+15:37:12.188 [main] 112  evel org.testng.internal.Utils- [TestNG] Running:
+  /Users/eram/Downloads/SeleniumWebdriver/opencartV121/master.xml
+
+15:37:12.280 [main] 16   evel testCases.TC001_AccountRegistrationTest- ***** Starting TC001_AccountRegistrationTest *****
+15:45:58.513 [main] 82   evel org.testng.TestNG- suiteXmlPath: "/Users/eram/Downloads/SeleniumWebdriver/opencartV121/master.xml"
+15:45:58.616 [main] 112  evel org.testng.internal.Utils- [TestNG] Running:
+  /Users/eram/Downloads/SeleniumWebdriver/opencartV121/master.xml
+
+15:47:17.765 [main] 82   evel org.testng.TestNG- suiteXmlPath: "/Users/eram/Downloads/SeleniumWebdriver/opencartV121/master.xml"
+15:47:17.867 [main] 112  evel org.testng.internal.Utils- [TestNG] Running:
+  /Users/eram/Downloads/SeleniumWebdriver/opencartV121/master.xml
+
+15:47:26.894 [main] 82   evel org.testng.TestNG- suiteXmlPath: "/Users/eram/Downloads/SeleniumWebdriver/opencartV121/master.xml"
+15:47:26.990 [main] 112  evel org.testng.internal.Utils- [TestNG] Running:
+  /Users/eram/Downloads/SeleniumWebdriver/opencartV121/master.xml
+
+15:47:27.081 [main] 16   evel testCases.TC001_AccountRegistrationTest- ***** Starting TC001_AccountRegistrationTest *****
+15:54:20.805 [main] 82   evel org.testng.TestNG- suiteXmlPath: "/Users/eram/Downloads/SeleniumWebdriver/opencartV121/master.xml"
+15:54:20.909 [main] 112  evel org.testng.internal.Utils- [TestNG] Running:
+  /Users/eram/Downloads/SeleniumWebdriver/opencartV121/master.xml
+
+15:54:21.008 [main] 16   evel testCases.TC001_AccountRegistrationTest- ***** Starting TC001_AccountRegistrationTest *****
+15:56:49.037 [main] 82   evel org.testng.TestNG- suiteXmlPath: "/Users/eram/Downloads/SeleniumWebdriver/opencartV121/master.xml"
+15:56:49.149 [main] 112  evel org.testng.internal.Utils- [TestNG] Running:
+  /Users/eram/Downloads/SeleniumWebdriver/opencartV121/master.xml
+
+15:56:53.558 [main] 16   evel testCases.TC001_AccountRegistrationTest- ***** Starting TC001_AccountRegistrationTest *****
+15:56:53.606 [main] 20   evel testCases.TC001_AccountRegistrationTest- Clicked on My Account Link
+15:56:54.354 [main] 23   evel testCases.TC001_AccountRegistrationTest- Clicked on Register Link
+15:56:54.356 [main] 26   evel testCases.TC001_AccountRegistrationTest- Providing Customer Details
+15:56:55.591 [main] 41   evel testCases.TC001_AccountRegistrationTest- Validating the expected message
+15:56:55.621 [main] 56   evel testCases.TC001_AccountRegistrationTest- ***** Finished TC001_AccountRegistrationTest *****
+15:56:58.834 [main] 15   evel testCases.TC002_LoginTest- *******Starting of TC002_LoginTest ********
+16:03:02.444 [main] 82   evel org.testng.TestNG- suiteXmlPath: "/Users/eram/Downloads/SeleniumWebdriver/opencartV121/crossbrowsertesting.xml"
+16:03:02.547 [main] 112  evel org.testng.internal.Utils- [TestNG] Running:
+  /Users/eram/Downloads/SeleniumWebdriver/opencartV121/crossbrowsertesting.xml
+
+16:04:06.259 [main] 82   evel org.testng.TestNG- suiteXmlPath: "/Users/eram/Downloads/SeleniumWebdriver/opencartV121/crossbrowsertesting.xml"
+16:04:06.362 [main] 112  evel org.testng.internal.Utils- [TestNG] Running:
+  /Users/eram/Downloads/SeleniumWebdriver/opencartV121/crossbrowsertesting.xml
+
+16:04:06.465 [TestNG-tests-1] 16   evel testCases.TC001_AccountRegistrationTest- ***** Starting TC001_AccountRegistrationTest *****
+16:04:06.465 [TestNG-tests-2] 16   evel testCases.TC001_AccountRegistrationTest- ***** Starting TC001_AccountRegistrationTest *****
+16:04:06.466 [TestNG-tests-3] 16   evel testCases.TC001_AccountRegistrationTest- ***** Starting TC001_AccountRegistrationTest *****
+16:09:49.011 [main] 82   evel org.testng.TestNG- suiteXmlPath: "/Users/eram/Downloads/SeleniumWebdriver/opencartV121/master.xml"

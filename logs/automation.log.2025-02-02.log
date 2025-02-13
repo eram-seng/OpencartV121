@@ -1,0 +1,48 @@
+10:19:50.891 [main] 16   evel testCases.TC001_AccountRegistrationTest- ***** Starting TC001_AccountRegistrationTest *****
+10:19:50.961 [main] 20   evel testCases.TC001_AccountRegistrationTest- Clicked on My Account Link
+10:19:51.531 [main] 24   evel testCases.TC001_AccountRegistrationTest- Clicked on Register Link
+10:19:51.532 [main] 28   evel testCases.TC001_AccountRegistrationTest- Providing Customer Details
+10:19:52.603 [main] 43   evel testCases.TC001_AccountRegistrationTest- Validating the expected message
+10:19:52.632 [main] 54   evel testCases.TC001_AccountRegistrationTest- ***** Finished TC001_AccountRegistrationTest *****
+10:22:37.456 [main] 14   evel testCases.TC001_AccountRegistrationTest- ***** Starting TC001_AccountRegistrationTest *****
+10:22:37.511 [main] 18   evel testCases.TC001_AccountRegistrationTest- Clicked on My Account Link
+10:22:38.076 [main] 21   evel testCases.TC001_AccountRegistrationTest- Clicked on Register Link
+10:22:38.078 [main] 24   evel testCases.TC001_AccountRegistrationTest- Providing Customer Details
+10:22:39.157 [main] 39   evel testCases.TC001_AccountRegistrationTest- Validating the expected message
+10:22:39.183 [main] 44   evel testCases.TC001_AccountRegistrationTest- Test Failed...
+10:22:39.184 [main] 45   evel testCases.TC001_AccountRegistrationTest- Debug Logs...
+16:07:47.981 [main] 16   evel testCases.TC001_AccountRegistrationTest- ***** Starting TC001_AccountRegistrationTest *****
+16:08:37.174 [main] 16   evel testCases.TC001_AccountRegistrationTest- ***** Starting TC001_AccountRegistrationTest *****
+16:08:59.001 [main] 16   evel testCases.TC001_AccountRegistrationTest- ***** Starting TC001_AccountRegistrationTest *****
+16:11:24.781 [main] 16   evel testCases.TC001_AccountRegistrationTest- ***** Starting TC001_AccountRegistrationTest *****
+16:13:33.049 [main] 16   evel testCases.TC001_AccountRegistrationTest- ***** Starting TC001_AccountRegistrationTest *****
+16:13:33.095 [main] 20   evel testCases.TC001_AccountRegistrationTest- Clicked on My Account Link
+16:13:33.782 [main] 23   evel testCases.TC001_AccountRegistrationTest- Clicked on Register Link
+16:13:33.784 [main] 26   evel testCases.TC001_AccountRegistrationTest- Providing Customer Details
+16:13:34.973 [main] 41   evel testCases.TC001_AccountRegistrationTest- Validating the expected message
+16:13:34.997 [main] 46   evel testCases.TC001_AccountRegistrationTest- Test Failed...
+16:13:34.997 [main] 47   evel testCases.TC001_AccountRegistrationTest- Debug Logs...
+16:15:20.280 [main] 16   evel testCases.TC001_AccountRegistrationTest- ***** Starting TC001_AccountRegistrationTest *****
+16:15:20.321 [main] 20   evel testCases.TC001_AccountRegistrationTest- Clicked on My Account Link
+16:15:20.917 [main] 23   evel testCases.TC001_AccountRegistrationTest- Clicked on Register Link
+16:15:20.920 [main] 26   evel testCases.TC001_AccountRegistrationTest- Providing Customer Details
+16:15:22.299 [main] 41   evel testCases.TC001_AccountRegistrationTest- Validating the expected message
+16:15:22.324 [main] 46   evel testCases.TC001_AccountRegistrationTest- Test Failed...
+16:15:22.324 [main] 47   evel testCases.TC001_AccountRegistrationTest- Debug Logs...
+16:15:51.330 [main] 16   evel testCases.TC001_AccountRegistrationTest- ***** Starting TC001_AccountRegistrationTest *****
+16:15:51.372 [main] 20   evel testCases.TC001_AccountRegistrationTest- Clicked on My Account Link
+16:15:52.056 [main] 23   evel testCases.TC001_AccountRegistrationTest- Clicked on Register Link
+16:15:52.058 [main] 26   evel testCases.TC001_AccountRegistrationTest- Providing Customer Details
+16:15:53.174 [main] 41   evel testCases.TC001_AccountRegistrationTest- Validating the expected message
+16:15:53.198 [main] 56   evel testCases.TC001_AccountRegistrationTest- ***** Finished TC001_AccountRegistrationTest *****
+22:37:36.326 [TestNG-tests-1] 16   evel testCases.TC001_AccountRegistrationTest- ***** Starting TC001_AccountRegistrationTest *****
+22:37:36.371 [TestNG-tests-1] 20   evel testCases.TC001_AccountRegistrationTest- Clicked on My Account Link
+22:37:36.963 [TestNG-tests-1] 23   evel testCases.TC001_AccountRegistrationTest- Clicked on Register Link
+22:37:36.965 [TestNG-tests-1] 26   evel testCases.TC001_AccountRegistrationTest- Providing Customer Details
+22:37:38.018 [TestNG-tests-1] 41   evel testCases.TC001_AccountRegistrationTest- Validating the expected message
+22:37:38.037 [TestNG-tests-1] 56   evel testCases.TC001_AccountRegistrationTest- ***** Finished TC001_AccountRegistrationTest *****
+22:37:50.869 [TestNG-tests-3] 16   evel testCases.TC001_AccountRegistrationTest- ***** Starting TC001_AccountRegistrationTest *****
+22:37:51.128 [TestNG-tests-3] 20   evel testCases.TC001_AccountRegistrationTest- Clicked on My Account Link
+22:37:53.253 [TestNG-tests-3] 23   evel testCases.TC001_AccountRegistrationTest- Clicked on Register Link
+22:37:53.253 [TestNG-tests-3] 26   evel testCases.TC001_AccountRegistrationTest- Providing Customer Details
+22:37:54.466 [TestNG-tests-3] 41   evel testCases.TC001_AccountRegistrationTest- Validating the expected message

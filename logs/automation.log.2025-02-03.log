@@ -1,0 +1,52 @@
+16:38:27.886 [main] 112  evel org.testng.internal.Utils- [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:38:27.890 [main] 112  evel org.testng.internal.Utils- [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:38:27.891 [main] 112  evel org.testng.internal.Utils- [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:38:27.891 [main] 112  evel org.testng.internal.Utils- [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:38:27.891 [main] 112  evel org.testng.internal.Utils- [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:38:27.891 [main] 112  evel org.testng.internal.Utils- [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:38:27.892 [main] 112  evel org.testng.internal.Utils- [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:38:27.892 [main] 112  evel org.testng.internal.Utils- [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:38:27.892 [main] 112  evel org.testng.internal.Utils- [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:38:27.892 [main] 112  evel org.testng.internal.Utils- [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:38:27.893 [main] 112  evel org.testng.internal.Utils- [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:38:27.893 [main] 112  evel org.testng.internal.Utils- [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:38:27.894 [main] 112  evel org.testng.internal.Utils- [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:38:27.894 [main] 112  evel org.testng.internal.Utils- [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:38:27.894 [main] 112  evel org.testng.internal.Utils- [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:38:27.894 [main] 112  evel org.testng.internal.Utils- [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:38:27.896 [main] 112  evel org.testng.internal.Utils- [TestNG] Running:
+  /private/var/folders/q_/24s0mxf105b42hln4fwc7dnm0000gn/T/testng-eclipse-2096468829/testng-customsuite.xml
+
+16:38:27.904 [main] 112  evel org.testng.internal.Utils- [Utils] DynamicGraphHelper.createDynamicGraph() took 1 ms.
+16:38:27.956 [main] 112  evel org.testng.internal.Utils- [TestNG] Time taken by org.testng.reporters.jq.Main@19553973: 18 ms
+16:38:27.959 [main] 112  evel org.testng.internal.Utils- [TestNG] Time taken by org.testng.reporters.FailedReporter@1951b871: 3 ms
+16:38:27.965 [main] 112  evel org.testng.internal.Utils- [TestNG] Time taken by org.testng.reporters.XMLReporter@312ab28e: 5 ms
+16:38:27.968 [main] 112  evel org.testng.internal.Utils- [TestNG] Time taken by org.testng.reporters.EmailableReporter2@2a2c13a8: 3 ms
+16:38:27.970 [main] 112  evel org.testng.internal.Utils- [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@7c541c15: 2 ms
+16:38:27.970 [main] 112  evel org.testng.internal.Utils- [TestNG] Time taken by org.testng.internal.ExitCodeListener@3542162a: 0 ms
+16:42:02.564 [main] 82   evel org.testng.TestNG- suiteXmlPath: "/Users/eram/Downloads/SeleniumWebdriver/opencartV121/master.xml"
+16:42:02.667 [main] 112  evel org.testng.internal.Utils- [TestNG] Running:
+  /Users/eram/Downloads/SeleniumWebdriver/opencartV121/master.xml
+
+16:42:06.220 [main] 16   evel testCases.TC001_AccountRegistrationTest- ***** Starting TC001_AccountRegistrationTest *****
+16:42:06.261 [main] 20   evel testCases.TC001_AccountRegistrationTest- Clicked on My Account Link
+16:42:06.878 [main] 23   evel testCases.TC001_AccountRegistrationTest- Clicked on Register Link
+16:42:06.880 [main] 26   evel testCases.TC001_AccountRegistrationTest- Providing Customer Details
+16:42:08.182 [main] 41   evel testCases.TC001_AccountRegistrationTest- Validating the expected message
+16:42:08.208 [main] 56   evel testCases.TC001_AccountRegistrationTest- ***** Finished TC001_AccountRegistrationTest *****
+16:42:11.491 [main] 15   evel testCases.TC002_LoginTest- *******Starting of TC002_LoginTest ********
+16:43:55.132 [main] 82   evel org.testng.TestNG- suiteXmlPath: "/Users/eram/Downloads/SeleniumWebdriver/opencartV121/master.xml"
+16:43:55.225 [main] 112  evel org.testng.internal.Utils- [TestNG] Running:
+  /Users/eram/Downloads/SeleniumWebdriver/opencartV121/master.xml
+
+16:43:58.764 [main] 15   evel testCases.TC002_LoginTest- *******Starting of TC002_LoginTest ********
+16:45:20.977 [main] 82   evel org.testng.TestNG- suiteXmlPath: "/Users/eram/Downloads/SeleniumWebdriver/opencartV121/master.xml"
+16:45:21.071 [main] 112  evel org.testng.internal.Utils- [TestNG] Running:
+  /Users/eram/Downloads/SeleniumWebdriver/opencartV121/master.xml
+
+16:45:24.643 [main] 15   evel testCases.TC002_LoginTest- *******Starting of TC002_LoginTest ********
+16:48:33.312 [main] 82   evel org.testng.TestNG- suiteXmlPath: "/Users/eram/Downloads/SeleniumWebdriver/opencartV121/master.xml"
+16:48:33.408 [main] 112  evel org.testng.internal.Utils- [TestNG] Running:
+  /Users/eram/Downloads/SeleniumWebdriver/opencartV121/master.xml
+
+16:48:36.748 [main] 15   evel testCases.TC002_LoginTest- *******Starting of TC002_LoginTest ********
