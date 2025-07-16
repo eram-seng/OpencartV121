@@ -2,7 +2,7 @@
 <testng-results ignored="0" total="2" passed="0" failed="0" skipped="2">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-02-09T21:29:28 IST" name="Master Suite" finished-at="2025-02-09T21:29:29 IST" duration-ms="569">
+  <suite started-at="2025-07-16T15:34:36 IST" name="Master Suite" finished-at="2025-07-16T15:34:37 IST" duration-ms="337">
     <groups>
       <group name="Master">
         <method signature="TC001_AccountRegistrationTest.verify_account_registration()[pri:0, instance:testCases.TC001_AccountRegistrationTest@558bdf1f]" name="verify_account_registration" class="testCases.TC001_AccountRegistrationTest"/>
@@ -15,9 +15,9 @@
         <method signature="TC001_AccountRegistrationTest.verify_account_registration()[pri:0, instance:testCases.TC001_AccountRegistrationTest@558bdf1f]" name="verify_account_registration" class="testCases.TC001_AccountRegistrationTest"/>
       </group> <!-- Regression -->
     </groups>
-    <test started-at="2025-02-09T21:29:28 IST" name="Test" finished-at="2025-02-09T21:29:29 IST" duration-ms="569">
+    <test started-at="2025-07-16T15:34:36 IST" name="Test" finished-at="2025-07-16T15:34:37 IST" duration-ms="337">
       <class name="testCases.TC002_LoginTest">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC002_LoginTest@3daf7722]" started-at="2025-02-09T21:29:29 IST" name="setup" finished-at="2025-02-09T21:29:29 IST" duration-ms="5" status="FAIL">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC002_LoginTest@3daf7722]" started-at="2025-07-16T15:34:37 IST" name="setup" finished-at="2025-07-16T15:34:37 IST" duration-ms="3" status="FAIL">
           <params>
             <param index="0">
               <value>
@@ -33,18 +33,18 @@
           <exception class="org.openqa.selenium.SessionNotCreatedException">
             <message>
               <![CDATA[Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure. 
-Host info: host: '192.168.1.12', ip: 'fe80:0:0:0:1011:f8f0:eb79:54b%en0'
+Host info: host: 'Erams-MacBook-Air.local', ip: 'fe80:0:0:0:103e:8f64:94d9:f335%en0'
 Build info: version: '4.28.0', revision: 'ac342546e9'
-System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.3', java.version: '22.0.2'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.5', java.version: '22.0.2'
 Driver info: org.openqa.selenium.remote.RemoteWebDriver
 Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, platformName: mac}]}]
 Capabilities {browserName: chrome, platformName: mac}]]>
             </message>
             <full-stacktrace>
               <![CDATA[org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure. 
-Host info: host: '192.168.1.12', ip: 'fe80:0:0:0:1011:f8f0:eb79:54b%en0'
+Host info: host: 'Erams-MacBook-Air.local', ip: 'fe80:0:0:0:103e:8f64:94d9:f335%en0'
 Build info: version: '4.28.0', revision: 'ac342546e9'
-System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.3', java.version: '22.0.2'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.5', java.version: '22.0.2'
 Driver info: org.openqa.selenium.remote.RemoteWebDriver
 Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, platformName: mac}]}]
 Capabilities {browserName: chrome, platformName: mac}
@@ -120,22 +120,22 @@ at java.net.http/jdk.internal.net.http.PlainHttpConnection.connectAsync(PlainHtt
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="verify_logion()[pri:0, instance:testCases.TC002_LoginTest@3daf7722]" started-at="2025-02-09T21:29:29 IST" name="verify_logion" finished-at="2025-02-09T21:29:29 IST" duration-ms="0" status="SKIP">
+        <test-method signature="verify_logion()[pri:0, instance:testCases.TC002_LoginTest@3daf7722]" started-at="2025-07-16T15:34:37 IST" name="verify_logion" finished-at="2025-07-16T15:34:37 IST" duration-ms="0" status="SKIP">
           <exception class="org.openqa.selenium.SessionNotCreatedException">
             <message>
               <![CDATA[Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure. 
-Host info: host: '192.168.1.12', ip: 'fe80:0:0:0:1011:f8f0:eb79:54b%en0'
+Host info: host: 'Erams-MacBook-Air.local', ip: 'fe80:0:0:0:103e:8f64:94d9:f335%en0'
 Build info: version: '4.28.0', revision: 'ac342546e9'
-System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.3', java.version: '22.0.2'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.5', java.version: '22.0.2'
 Driver info: org.openqa.selenium.remote.RemoteWebDriver
 Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, platformName: mac}]}]
 Capabilities {browserName: chrome, platformName: mac}]]>
             </message>
             <full-stacktrace>
               <![CDATA[org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure. 
-Host info: host: '192.168.1.12', ip: 'fe80:0:0:0:1011:f8f0:eb79:54b%en0'
+Host info: host: 'Erams-MacBook-Air.local', ip: 'fe80:0:0:0:103e:8f64:94d9:f335%en0'
 Build info: version: '4.28.0', revision: 'ac342546e9'
-System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.3', java.version: '22.0.2'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.5', java.version: '22.0.2'
 Driver info: org.openqa.selenium.remote.RemoteWebDriver
 Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, platformName: mac}]}]
 Capabilities {browserName: chrome, platformName: mac}
@@ -211,13 +211,13 @@ at java.net.http/jdk.internal.net.http.PlainHttpConnection.connectAsync(PlainHtt
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verify_logion -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC002_LoginTest@3daf7722]" started-at="2025-02-09T21:29:29 IST" name="tearDown" finished-at="2025-02-09T21:29:29 IST" duration-ms="0" status="SKIP">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC002_LoginTest@3daf7722]" started-at="2025-07-16T15:34:37 IST" name="tearDown" finished-at="2025-07-16T15:34:37 IST" duration-ms="0" status="SKIP">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- testCases.TC002_LoginTest -->
       <class name="testCases.TC001_AccountRegistrationTest">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC001_AccountRegistrationTest@558bdf1f]" started-at="2025-02-09T21:29:28 IST" name="setup" finished-at="2025-02-09T21:29:29 IST" duration-ms="403" status="FAIL">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC001_AccountRegistrationTest@558bdf1f]" started-at="2025-07-16T15:34:36 IST" name="setup" finished-at="2025-07-16T15:34:37 IST" duration-ms="248" status="FAIL">
           <params>
             <param index="0">
               <value>
@@ -233,18 +233,18 @@ at java.net.http/jdk.internal.net.http.PlainHttpConnection.connectAsync(PlainHtt
           <exception class="org.openqa.selenium.SessionNotCreatedException">
             <message>
               <![CDATA[Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure. 
-Host info: host: '192.168.1.12', ip: 'fe80:0:0:0:1011:f8f0:eb79:54b%en0'
+Host info: host: 'Erams-MacBook-Air.local', ip: 'fe80:0:0:0:103e:8f64:94d9:f335%en0'
 Build info: version: '4.28.0', revision: 'ac342546e9'
-System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.3', java.version: '22.0.2'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.5', java.version: '22.0.2'
 Driver info: org.openqa.selenium.remote.RemoteWebDriver
 Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, platformName: mac}]}]
 Capabilities {browserName: chrome, platformName: mac}]]>
             </message>
             <full-stacktrace>
               <![CDATA[org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure. 
-Host info: host: '192.168.1.12', ip: 'fe80:0:0:0:1011:f8f0:eb79:54b%en0'
+Host info: host: 'Erams-MacBook-Air.local', ip: 'fe80:0:0:0:103e:8f64:94d9:f335%en0'
 Build info: version: '4.28.0', revision: 'ac342546e9'
-System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.3', java.version: '22.0.2'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.5', java.version: '22.0.2'
 Driver info: org.openqa.selenium.remote.RemoteWebDriver
 Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, platformName: mac}]}]
 Capabilities {browserName: chrome, platformName: mac}
@@ -320,22 +320,22 @@ at java.net.http/jdk.internal.net.http.PlainHttpConnection.connectAsync(PlainHtt
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="verify_account_registration()[pri:0, instance:testCases.TC001_AccountRegistrationTest@558bdf1f]" started-at="2025-02-09T21:29:29 IST" name="verify_account_registration" finished-at="2025-02-09T21:29:29 IST" duration-ms="0" status="SKIP">
+        <test-method signature="verify_account_registration()[pri:0, instance:testCases.TC001_AccountRegistrationTest@558bdf1f]" started-at="2025-07-16T15:34:37 IST" name="verify_account_registration" finished-at="2025-07-16T15:34:37 IST" duration-ms="0" status="SKIP">
           <exception class="org.openqa.selenium.SessionNotCreatedException">
             <message>
               <![CDATA[Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure. 
-Host info: host: '192.168.1.12', ip: 'fe80:0:0:0:1011:f8f0:eb79:54b%en0'
+Host info: host: 'Erams-MacBook-Air.local', ip: 'fe80:0:0:0:103e:8f64:94d9:f335%en0'
 Build info: version: '4.28.0', revision: 'ac342546e9'
-System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.3', java.version: '22.0.2'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.5', java.version: '22.0.2'
 Driver info: org.openqa.selenium.remote.RemoteWebDriver
 Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, platformName: mac}]}]
 Capabilities {browserName: chrome, platformName: mac}]]>
             </message>
             <full-stacktrace>
               <![CDATA[org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure. 
-Host info: host: '192.168.1.12', ip: 'fe80:0:0:0:1011:f8f0:eb79:54b%en0'
+Host info: host: 'Erams-MacBook-Air.local', ip: 'fe80:0:0:0:103e:8f64:94d9:f335%en0'
 Build info: version: '4.28.0', revision: 'ac342546e9'
-System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.3', java.version: '22.0.2'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.5', java.version: '22.0.2'
 Driver info: org.openqa.selenium.remote.RemoteWebDriver
 Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, platformName: mac}]}]
 Capabilities {browserName: chrome, platformName: mac}
@@ -411,7 +411,7 @@ at java.net.http/jdk.internal.net.http.PlainHttpConnection.connectAsync(PlainHtt
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verify_account_registration -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC001_AccountRegistrationTest@558bdf1f]" started-at="2025-02-09T21:29:29 IST" name="tearDown" finished-at="2025-02-09T21:29:29 IST" duration-ms="0" status="SKIP">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC001_AccountRegistrationTest@558bdf1f]" started-at="2025-07-16T15:34:37 IST" name="tearDown" finished-at="2025-07-16T15:34:37 IST" duration-ms="0" status="SKIP">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

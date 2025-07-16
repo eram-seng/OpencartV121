@@ -7,6 +7,7 @@
 /Users/eram/Downloads/SeleniumWebdriver/opencartV121/src/test/java/testCases/TC001_AccountRegistrationTest.java
 /Users/eram/Downloads/SeleniumWebdriver/opencartV121/src/test/java/testCases/TC002_LoginTest.java
 /Users/eram/Downloads/SeleniumWebdriver/opencartV121/src/test/java/testCases/TC003_LoginDDT.java
+/Users/eram/Downloads/SeleniumWebdriver/opencartV121/src/test/java/testCases/TC004_Search.java
 /Users/eram/Downloads/SeleniumWebdriver/opencartV121/src/test/java/utilities/DataProviders.java
 /Users/eram/Downloads/SeleniumWebdriver/opencartV121/src/test/java/utilities/ExcelUtility.java
 /Users/eram/Downloads/SeleniumWebdriver/opencartV121/src/test/java/utilities/ExtentReportManager.java

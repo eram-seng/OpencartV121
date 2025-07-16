@@ -1,13 +1,13 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 6, Failures: 2, Errors: 0, Skipped: 4, Time elapsed: 1.871 s <<< FAILURE! -- in TestSuite
-testCases.TC001_AccountRegistrationTest.setup[macOS, chrome](0) -- Time elapsed: 1.156 s <<< FAILURE!
+Tests run: 6, Failures: 2, Errors: 0, Skipped: 4, Time elapsed: 1.407 s <<< FAILURE! -- in TestSuite
+testCases.TC001_AccountRegistrationTest.setup[macOS, chrome](0) -- Time elapsed: 0.657 s <<< FAILURE!
 org.openqa.selenium.SessionNotCreatedException: 
 Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure. 
-Host info: host: '192.168.1.12', ip: 'fe80:0:0:0:1011:f8f0:eb79:54b%en0'
+Host info: host: 'Erams-MacBook-Air.local', ip: 'fe80:0:0:0:103e:8f64:94d9:f335%en0'
 Build info: version: '4.28.0', revision: 'ac342546e9'
-System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.3', java.version: '22.0.2'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.5', java.version: '22.0.2'
 Driver info: org.openqa.selenium.remote.RemoteWebDriver
 Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, platformName: mac}]}]
 Capabilities {browserName: chrome, platformName: mac}
@@ -78,12 +78,12 @@ Caused by: java.nio.channels.ClosedChannelException
 	at java.net.http/jdk.internal.net.http.PlainHttpConnection.connectAsync(PlainHttpConnection.java:212)
 	... 9 more
 
-testCases.TC002_LoginTest.setup[macOS, chrome](0) -- Time elapsed: 0.015 s <<< FAILURE!
+testCases.TC002_LoginTest.setup[macOS, chrome](0) -- Time elapsed: 0.009 s <<< FAILURE!
 org.openqa.selenium.SessionNotCreatedException: 
 Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure. 
-Host info: host: '192.168.1.12', ip: 'fe80:0:0:0:1011:f8f0:eb79:54b%en0'
+Host info: host: 'Erams-MacBook-Air.local', ip: 'fe80:0:0:0:103e:8f64:94d9:f335%en0'
 Build info: version: '4.28.0', revision: 'ac342546e9'
-System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.3', java.version: '22.0.2'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.5', java.version: '22.0.2'
 Driver info: org.openqa.selenium.remote.RemoteWebDriver
 Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, platformName: mac}]}]
 Capabilities {browserName: chrome, platformName: mac}

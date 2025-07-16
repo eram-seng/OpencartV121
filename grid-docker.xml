@@ -21,7 +21,7 @@
   
  
 
-<!--  <test name="Linux-Firefox">
+<!-- <test name="Linux-Firefox">
     <parameter name="os" value="Linux"/>
     <parameter name="browser" value="firefox"/>
      
@@ -32,4 +32,4 @@
   </test>-->
   
   
-</suite> <!-- Suite -->
+</suite>
